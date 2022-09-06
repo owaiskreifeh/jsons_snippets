@@ -7,7 +7,7 @@
     },
     {
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",
-      "title": "7ala TV [Geo-blocked]",
+      "title": "HTTP: 7ala TV [Geo-blocked]",
       "url": "http://vstream3.hadara.ps:8081/7alafm2020/7alafm2020/playlist.m3u8"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "logo": "https://i.imgur.com/WhPlJzh.jpeg",
-      "title": "ABNsat",
+      "title": "HTTP: ABNsat",
       "url": "http://rtmp1.abnsat.com/hls/arabic.m3u8"
     },
     {
@@ -52,12 +52,12 @@
     },
     {
       "logo": "https://i.imgur.com/soDiTxg.jpeg",
-      "title": "Africa TV 1",
+      "title": "HTTP: Africa TV 1",
       "url": "http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8"
     },
     {
       "logo": "https://i.imgur.com/FVwwXan.jpeg",
-      "title": "Africa TV 2",
+      "title": "HTTP: Africa TV 2",
       "url": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8"
     },
     {
@@ -72,7 +72,7 @@
     },
     {
       "logo": "https://i.imgur.com/j1Xmygq.jpg",
-      "title": "Ajyal TV",
+      "title": "HTTP: Ajyal TV",
       "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "logo": "https://i.imgur.com/KonAcvc.jpeg",
-      "title": "Al Alamiya 2",
+      "title": "HTTP: Al Alamiya 2",
       "url": "http://82.212.74.98:8000/live/7815.m3u8"
     },
     {
